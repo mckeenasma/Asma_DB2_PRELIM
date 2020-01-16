@@ -1,0 +1,1 @@
+select first_name, last_name, salary from asma_hr.employees where salary < '6000';

@@ -1,0 +1,1 @@
+select first_name, last_name, department_id from asma_hr.employees where last_name = 'McEwen';

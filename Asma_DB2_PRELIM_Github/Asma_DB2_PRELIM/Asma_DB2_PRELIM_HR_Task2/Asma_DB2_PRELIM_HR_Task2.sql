@@ -1,0 +1,1 @@
+select employee_id, last_name, first_name from asma_hr.employees;

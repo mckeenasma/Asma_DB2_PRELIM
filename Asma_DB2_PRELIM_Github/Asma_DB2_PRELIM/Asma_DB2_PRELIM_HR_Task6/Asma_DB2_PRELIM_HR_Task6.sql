@@ -1,0 +1,1 @@
+update asma_hr.job set job_title = 'Database Administrator' where job_title = 'Database Developer'

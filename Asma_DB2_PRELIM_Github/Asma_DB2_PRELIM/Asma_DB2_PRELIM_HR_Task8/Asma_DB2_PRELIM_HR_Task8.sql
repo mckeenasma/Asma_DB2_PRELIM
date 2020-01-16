@@ -1,0 +1,1 @@
+select job_title, max_salary - min_salary from asma_hr.jobs where max_salary >= '12000' and max_salary <= '18000';
